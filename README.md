@@ -3,8 +3,12 @@
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HMTL, CSS e JavaScript
 
+#
+
 ![Claudionor-Cosme GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudionor-Cosme&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudionor-Cosme&langs_count=8&theme=tokyonight)
+
+#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="claudio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +16,8 @@
   <img align="center" alt="claudio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 <br>
+
+#
 
 <div> 
  <a href="https://www.instagram.com/claudionor.cosme?igsh=bmdvdHFvMWh3dGdq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
