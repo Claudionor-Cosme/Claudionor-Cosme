@@ -1,7 +1,6 @@
 ## Olá, eu sou o Claudionor Cosme !
 
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HMTL, CSS e JavaScript
+<p>Estudante de Análise e Desenvolvimento de Sistemas no IFSP - Instituto Federal de São Paulo, campus boituva. Aqui no Github, você pode encontrar meus projetos relacionados a programação e outras tecnologias que estou aprendendo e explorando. Acredito que a aprendizagem contínua é fundamental para crescer como desenvolvedor e criar soluções cada vez mais eficientes e criativas.</p>
 
 #
 
@@ -17,13 +16,13 @@
 </div>
 <br>
 
-#
-
 <div> 
  <a href="https://www.instagram.com/claudionor.cosme?igsh=bmdvdHFvMWh3dGdq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:claudionorcosmefilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/claudionor-cosme-747525332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Claudionor-Cosme/Claudionor-Cosme/output/github-contribution-grid-snake-dark.svg">
