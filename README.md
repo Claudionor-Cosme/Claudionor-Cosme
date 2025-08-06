@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HMTL, CSS e JavaScript
-- 😄 Pronouns: ele/dele
 
 ![Claudionor-Cosme GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudionor-Cosme&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudionor-Cosme&langs_count=8&theme=tokyonight)
